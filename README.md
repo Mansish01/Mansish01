@@ -1,49 +1,73 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header&fontColor=FFFFFF&backgroundColor=000000"/>
+</div>
 
-###
+<h1 align="center"><span style="color:white">Hi 👋, I'm Manish Gyawali</span></h1>
+<h3 align="center"><span style="color:white">AI Engineer & Web Developer from Nepal</span></h3>
+
+<br>
+
+## <span style="color:white"> About Me</span>
+- <span style="color:white">💼 Working as ML Engineer / Frontend Developer at **Wiseyak** <img src="https://wiseyak.com/assets/WiseYakHexagonLogo-8f84b4e0.png" alt="Wiseyak Logo" width="20"/></span>
+- <span style="color:white">🔭 Currently working on **Automatic Speech Recognition systems**</span>
+- <span style="color:white">🎓 B.E. in Computer Engineering from Tribhuvan University</span>
+- <span style="color:white">🌱 AI Engineer with deep learning expertise & Web development skills</span>
+- <span style="color:white">📍 Based in Palpa, Nepal</span>
+
+## <span style="color:white">🧠 AI Experience</span>
+- <span style="color:white">Previously worked as **AI Intern** at BP Eye Foundation & NAAMII</span>
+- <span style="color:white">Developed deep learning models for medical disease prediction</span>
+- <span style="color:white">Built CNN-based classification for Tuberculosis Detection (93% accuracy)</span>
+- <span style="color:white">Created NLP systems for Hate Speech Detection using Naive Bayes</span>
+- <span style="color:white">Implemented ocular disease classification with DenseNet-161</span>
+
+## <span style="color:white">💻 Web Development</span>
+- <span style="color:white">Frontend Developer at **GC Trade, France**</span>
+- <span style="color:white">Machine Learning Engineer/Frontend Developer at **Wiseyak**</span>
+- <span style="color:white">Experience with React and modern JavaScript</span>
+
+## <span style="color:white">🛠️ Skills</span>
+<p align="left" style="background-color:black">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo" />
+  <img width="10" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="tensorflow" />
+  <img width="10" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn" />
+</p>
+
+
+## <span style="color:white">🏆 Achievements</span>
+- <span style="color:white">First place in Python Bytes competition</span>
+- <span style="color:white">Merit-based scholarship recipient</span>
+- <span style="color:white">Completed Deep Learning for Medical Image Classification course at NAAMII</span>
+
+## <span style="color:white">📫 Connect with me</span>
+<p align="center">
+  <a href="mailto:manishgyawali1234567@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&logoWidth=20" alt="gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/manish-gyawali-690366286/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000&logoWidth=20" alt="linkedin" />
+  </a>
+</p>
+
+<!-- Snake animation -->
+<div align="center" style="background-color:black">
+  <img src="https://raw.githubusercontent.com/Mansish01/Mansish01/output/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer&fontColor=FFFFFF&backgroundColor=000000"/>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
