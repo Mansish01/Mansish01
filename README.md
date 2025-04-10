@@ -9,7 +9,8 @@
 <br>
 
 ## <span style="color:white"> About Me</span>
-- <span style="color:white">💼 Working as ML Engineer / Frontend Developer at **Wiseyak** <img src="https://wiseyak.com/assets/WiseYakHexagonLogo-8f84b4e0.png" alt="Wiseyak Logo" width="20"/></span>
+- <span style="color:white">🔭 Currently working at **Geofinity Solutions** as a **Software Developer** <img src="https://imgs.search.brave.com/3DnD2TROxJhS2ZMQUAdO5EoC2yi7hr3RWtdu0nD3gq4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ3YmZlMzJh/MzI2MDY1NjUwNTNl/OTcyODgzMjAwMWIy/YzY1MzkzM2Y0NjAx/YTE4MDVmNzA5Nzc0/MWI2NThhZi9nZW9m/aW5pdHkuY29tLm5w/Lw" alt="Geofinity Logo" width="20"/></span> 
+- <span style="color:white">💼 Worked as ML Engineer / Frontend Developer at **Wiseyak** <img src="https://wiseyak.com/assets/WiseYakHexagonLogo-8f84b4e0.png" alt="Wiseyak Logo" width="20"/></span>
 - <span style="color:white">🔭 Currently working on **Automatic Speech Recognition systems**</span>
 - <span style="color:white">🎓 B.E. in Computer Engineering from Tribhuvan University</span>
 - <span style="color:white">🌱 AI Engineer with deep learning expertise & Web development skills</span>
