@@ -54,6 +54,9 @@
   <img width="10" />
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="40" alt="Django" />
   <img width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="HTML5" />
+  <img width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" alt="CSS3" />
   
 </p>
 
