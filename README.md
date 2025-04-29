@@ -48,8 +48,6 @@
   <img width="10" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn" />
   <img width="10" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn" />
-  <img width="10" />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="40" alt="Docker" />
   <img width="10" />
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI" />
